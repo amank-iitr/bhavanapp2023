@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350054711599",
+    "project_id": "bhavanapp-85158",
+    "storage_bucket": "bhavanapp-85158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350054711599:android:9292fe5817334116be21da",
+        "android_client_info": {
+          "package_name": "com.example.bhavanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350054711599-4aj92548sn1g2brpu118rhe5c62vcgc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKVs1cvgvyrPqWJcIgD3zx9y2yMXJQucM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350054711599-4aj92548sn1g2brpu118rhe5c62vcgc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
